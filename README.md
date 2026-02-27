@@ -1,4 +1,5 @@
-🎓## **Student Pass and Fail Data Analysis and Visualization**
+🎓 **Student Pass and Fail Data Analysis and Visualization**
+
 📌 Project Overview
 
 This project analyzes student performance data to identify patterns between pass and fail students.
@@ -68,5 +69,5 @@ pip install pandas numpy matplotlib seaborn
 # Run the notebook or python file
 👨‍💻 Author
 
-Muhammad Ali Khokhar
+Mehnaz Ghulam jaffar
 Aspiring Data Analyst 📊
