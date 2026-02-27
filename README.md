@@ -58,7 +58,14 @@ Students with higher attendance are more likely to pass.
 Study hours show a positive correlation with final grades.
 
 Outliers were detected using the IQR method.
+🚀 How to Run the Project
+# Clone the repository
+git clone https://github.com/yourusername/student-pass-fail-analysis.git
 
+# Install required libraries
+pip install pandas numpy matplotlib seaborn
+
+# Run the notebook or python file
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn
@@ -67,4 +74,5 @@ pip install pandas numpy matplotlib seaborn
 👨‍💻 **Author**
 
 Mehnaz Ghulam jaffar
+
 Aspiring Data Analyst 📊
