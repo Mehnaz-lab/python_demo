@@ -1,11 +1,11 @@
 🎓 **Student Pass and Fail Data Analysis and Visualization**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project analyzes student performance data to identify patterns between pass and fail students.
 The goal is to explore key factors affecting student results using data analysis and visualization techniques.
 
-📊 Objectives
+📊 **Objectives**
 
 Clean and preprocess student dataset
 
@@ -17,7 +17,7 @@ Visualize pass vs fail distribution
 
 Generate meaningful insights
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 
 Python
 
@@ -29,7 +29,7 @@ Matplotlib
 
 Seaborn
 
-📂 Dataset Features (Example)
+📂 **Dataset Features (Example)**
 
 Study Hours
 
@@ -41,7 +41,7 @@ Test Scores
 
 Final Result (Pass/Fail)
 
-📈 Visualizations Included
+📈**Visualizations Included**
 
 Bar Chart (Pass vs Fail Count)
 
@@ -51,7 +51,7 @@ Histogram (Marks Distribution)
 
 Correlation Heatmap
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 Students with higher attendance are more likely to pass.
 
@@ -67,7 +67,7 @@ git clone https://github.com/yourusername/student-pass-fail-analysis.git
 pip install pandas numpy matplotlib seaborn
 
 # Run the notebook or python file
-👨‍💻 Author
+👨‍💻 **Author**
 
 Mehnaz Ghulam jaffar
 Aspiring Data Analyst 📊
